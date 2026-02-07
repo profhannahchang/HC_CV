@@ -1,0 +1,74 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Hannah H. Chang
+
+jobtitle: "Associate Professor of Marketing"
+address: "Lee Kong Chian School of Business · Singapore Management University"
+fontawesome: yes
+email: hannahchang@smu.edu.sg
+github: profhannahchang
+web: profhannahchang.github.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Academic Appointments
+
+*Singapore Management University, Lee Kong Chian School of Business*
+
+Associate Professor of Marketing \hfill 2014--Present
+
+Assistant Professor of Marketing \hfill 2008--2014
+
+# Administrative Roles
+
+Faculty Senate Chair, Singapore Management University \hfill 2023--Present
+
+IRB Chair, Singapore Management University \hfill 2020--Present
+
+Director of PhD Programmes, LKCSB \hfill 2020--2023
+
+# Education
+
+*Columbia University*, Ph.D. in Marketing \hfill 2008
+
+*Columbia University*, M.Phil. in Marketing \hfill 2006
+
+*University of California*, B.A. in Economics \hfill 2002
+
+# Research Interests
+
+Consumer behavior, consumer judgment and decision-making, affect (feelings and moods), consumer experiences, innovation and entrepreneurship.
+
+# Publications
+
+## Journal Articles
+
+Johnson, L., Keinan, A., Chang, H. H., and Lehmann, D. R. "The Robin Hood Effect in Consumer Transgressions Against Firms." *Journal of Consumer Research* (forthcoming, 2025).
+
+Chang, H. H. and Mukherjee, A. "More Voices Persuade: The Attentional Benefits of Voice Numerosity." *Journal of Marketing Research* (2023).
+
+Chang, H. H. and Hung, I. W. "Mirror, Mirror on the Retail Wall: Self-focused Attention Promotes Reliance on Feelings in Consumer Decisions." *Journal of Marketing Research* 55(August): 586--599 (2018).
+
+Chang, H. H. and Pham, M. T. "Affective Boundaries of Scope Insensitivity." *Journal of Consumer Research* 45(August): 403--428 (2018).
+
+Hong, J. and Chang, H. H. "I Follow My Heart and We Rely on Reasons: The Impact of Self-Construal on Reliance on Feelings versus Reasons in Decision Making." *Journal of Consumer Research* 41(April): 1392--1411 (2015).
+
+Chang, H. H. and Pham, M. T. "Affect as a Decision-Making System of the Present." *Journal of Consumer Research* 40(June): 42--63 (2013).
+
+Pham, M. T. and Chang, H. H. "Regulatory Focus, Regulatory Fit, and the Search and Consideration of Choice Alternatives." *Journal of Consumer Research* 37(December): 626--640 (2010).
+
+Weber, E. U., Johnson, E. J., Milch, K. F., Chang, H. H., Brodscholl, J. C., and Goldstein, D. G. "Asymmetric Discounting in Intertemporal Choice: A Query-Theory Account." *Psychological Science* 18(6): 516--523 (2007).
